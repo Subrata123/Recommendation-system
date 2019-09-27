@@ -12,7 +12,7 @@ The dataset has several data but we will be only focusing on electronic data for
 
 We are going to perform following steps as part of our recommendation project
 
-a. Data import and cleaning (subset data) 
-b. Train/test dataset creation 
-c. Building a recommendation system (Popularity and Collaborative filtering)  
+a. Data import and cleaning (subset data)  
+b. Train/test dataset creation   
+c. Building a recommendation system (Popularity and Collaborative filtering)    
 d. Model evalution and best model selection 
